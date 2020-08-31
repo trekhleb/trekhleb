@@ -5,7 +5,7 @@ Most of my open-source projects below 👇🏻 are focused on one thing -  **to 
 <a href="https://twitter.com/Trekhleb" alt="Follow me on Twitter">
   <img
     width="24"
-    alt="Follow me on Twitter"
+    title="Follow me on Twitter"
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg"
   />
 </a>
