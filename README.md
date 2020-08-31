@@ -9,8 +9,7 @@ Most of my open-source projects below 👇🏻 are focused on one thing -  **to 
     width="24"
     alt="Follow me on Twitter"
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg"
-  />
-</a>
+  /></a>
 
 
 <a href="https://www.linkedin.com/in/trekhleb/" title="Follow me on LinkedIn">
@@ -18,21 +17,18 @@ Most of my open-source projects below 👇🏻 are focused on one thing -  **to 
     width="24"
     alt="Follow me on LinkedIn"
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
-  />
-</a>
+  /></a>
 
 <a href="https://www.linkedin.com/in/trekhleb/" title="Follow me on Medium">
   <img
     width="24"
     alt="Follow me on Medium"
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/medium.svg"
-  />
-</a>
+  /></a>
 
 <a href="https://www.linkedin.com/in/trekhleb/" title="Follow me on DevTo">
   <img
     width="24"
     alt="Follow me on DevTo"
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/devto.svg"
-  />
-</a>
+  /></a>
