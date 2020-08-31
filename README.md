@@ -2,10 +2,19 @@ Hi there! 👋 I'm Oleksii. I work as a full-time software engineer. In my spare
 
 Most of my open-source projects below 👇🏻 are focused on one thing -  **to help people learn** 📚. You may use these projects to learn about _algorithms in JavaScript_ and get prepared for _technical interviews_, or to learn _Python_ syntax and start experimenting with _machine learning algorithms_ and math behind them, etc.
 
-<a href="https://twitter.com/Trekhleb" alt="Follow me on Twitter">
+<a href="https://twitter.com/Trekhleb" title="Follow me on Twitter">
   <img
     width="24"
-    title="Follow me on Twitter"
+    alt="Follow me on Twitter"
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg"
+  />
+</a>
+
+
+<a href="https://www.linkedin.com/in/trekhleb/" title="Follow me on LinkedIn">
+  <img
+    width="24"
+    alt="Follow me on LinkedIn"
+    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
   />
 </a>
