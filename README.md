@@ -10,22 +10,21 @@ Most of my open-source projects below 👇🏻 are focused on one thing -  **to 
     alt="Follow me on Twitter"
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg"
   /></a>
-
-
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/trekhleb/" title="Follow me on LinkedIn">
   <img
     width="24"
     alt="Follow me on LinkedIn"
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
   /></a>
-
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/trekhleb/" title="Follow me on Medium">
   <img
     width="24"
     alt="Follow me on Medium"
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/medium.svg"
   /></a>
-
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/trekhleb/" title="Follow me on DevTo">
   <img
     width="24"
