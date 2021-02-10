@@ -30,5 +30,4 @@ I'm Oleksii. I work as a full-time software engineer. In my spare time I do open
     width="24"
     alt="Follow me on DevTo"
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/devto.svg"
-  /></a>&nbsp;
-<a href="https://trekhleb.dev">trekhleb.dev</a>
+  /></a>&nbsp;<a href="https://trekhleb.dev">trekhleb.dev</a>
