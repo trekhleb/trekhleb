@@ -32,4 +32,4 @@ I'm Oleksii. I work as a full-time software engineer. In my spare time I do open
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/devto.svg"
   /></a>
 
-[trekhleb.dev](https://trekhleb.dev)
+<a href="https://trekhleb.dev">trekhleb.dev</a>
