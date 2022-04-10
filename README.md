@@ -4,6 +4,8 @@ I'm Oleksii. I work as a full-time software engineer. In my spare time I do open
 
 ### Getting in touch
 
+[trekhleb.dev](https://trekhleb.dev)
+
 <a href="https://twitter.com/Trekhleb" title="Follow me on Twitter">
   <img
     width="24"
@@ -24,5 +26,3 @@ I'm Oleksii. I work as a full-time software engineer. In my spare time I do open
     alt="Follow me on Medium"
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/medium.svg"
   /></a>
-
-[trekhleb.dev](https://trekhleb.dev)
