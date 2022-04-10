@@ -24,12 +24,5 @@ I'm Oleksii. I work as a full-time software engineer. In my spare time I do open
     alt="Follow me on Medium"
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/medium.svg"
   /></a>
-&nbsp;
-<a href="https://dev.to/trekhleb" title="Follow me on DevTo">
-  <img
-    width="24"
-    alt="Follow me on DevTo"
-    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/devto.svg"
-  /></a>
 
 [trekhleb.dev](https://trekhleb.dev)
