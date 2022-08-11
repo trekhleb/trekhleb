@@ -6,7 +6,7 @@ Most of my open-source 🚀 [projects](https://trekhleb.dev/projects/) below �
 
 I also write 📝 [articles](https://trekhleb.dev/blog/) about life, web-development and machine learning.
 
-Currently, developing the ✍🏻 [okso.app](https://okso.app/) drawing app.
+Currently, developing the ✍🏻 [okso.app](https://okso.app/) online drawing app.
 
 ### Getting in touch
 
