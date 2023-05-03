@@ -4,9 +4,9 @@ I'm Oleksii. I work as a full-time software engineer at Uber. In my spare time I
 
 Most of my open-source 🚀 [projects](https://trekhleb.dev/projects/) below 👇🏻 are focused on one thing -  **to help people learn** 📚. You may use these projects to learn about _algorithms in JavaScript_ and get prepared for _technical interviews_, or to learn _Python_ syntax and start experimenting with _machine learning algorithms_ and math behind them, etc.
 
-I also write 📝 [articles](https://trekhleb.dev/blog/) about life, web-development and machine learning.
+There are also some [other projects](https://trekhleb.dev/projects/) that I've developed for fun but that you might find useful, like ✍🏻 [okso.app](https://okso.app/) online drawing app.
 
-Currently, developing the ✍🏻 [okso.app](https://okso.app/) online drawing app.
+I also write 📝 [articles](https://trekhleb.dev/blog/) about life, web-development and machine learning.
 
 ### Getting in touch
 
