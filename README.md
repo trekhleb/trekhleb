@@ -8,6 +8,4 @@ I also write 📝 [articles](https://trekhleb.dev/blog/) about learning, life, w
 
 ### Getting in touch
 
-- [trekhleb.dev](https://trekhleb.dev)
-- [LinkedIn](https://www.linkedin.com/in/trekhleb/)
-- [X](https://x.com/trekhleb)
+[trekhleb.dev](https://trekhleb.dev)
