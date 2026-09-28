@@ -1,34 +1,13 @@
 ### Hi there!
 
-I'm Oleksii. I work as a full-time software engineer at Uber. In my spare time, I do open-sourcing.
+I'm Oleksii, a senior software engineer at Uber, building software since 2007, and a lifelong learner. What I enjoy most is taking a complex technical idea, digging into it until it feels simple, and then distilling it into something minimal, visual, and interactive that makes it click for others too.
 
-Most of my open-source 🚀 [projects](https://trekhleb.dev/projects/) below 👇🏻 are focused on one thing -  **to help people learn** 📚. You may use these projects to learn about _algorithms in JavaScript_ and get prepared for _technical interviews_, or to learn _Python_ syntax and start experimenting with _machine learning algorithms_ and the math behind them, etc.
+That's the thread running through most of my open-source 🚀 [projects](https://trekhleb.dev/projects/): algorithms and data structures in JavaScript, machine learning built from scratch, a neural network in a handful of functions, a self-parking car that learns through a genetic algorithm, and more.
 
-There are also [other projects](https://trekhleb.dev/projects/) that I've developed for fun but that you might find useful, like ✍🏻 [okso.app](https://okso.app/) - an online drawing app, or 🧠 [yesbrainer](https://yesbrainer.ai) - a council of LLMs that debate in the browser towards the solution.
-
-I also write 📝 [articles](https://trekhleb.dev/blog/) about life, web development, and machine learning.
+I also write 📝 [articles](https://trekhleb.dev/blog/) about learning, life, web development, and machine learning. My work has been featured in Hacker News, TechCrunch, JavaScript Weekly, Wikipedia and MDN ([publications](https://trekhleb.dev/publications/)).
 
 ### Getting in touch
 
-[trekhleb.dev](https://trekhleb.dev)
-
-<a href="https://twitter.com/Trekhleb" title="Follow me on Twitter">
-  <img
-    width="24"
-    alt="Follow me on Twitter"
-    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg"
-  /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/trekhleb/" title="Follow me on LinkedIn">
-  <img
-    width="24"
-    alt="Follow me on LinkedIn"
-    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
-  /></a>
-&nbsp;
-<a href="https://medium.com/@trekhleb" title="Follow me on Medium">
-  <img
-    width="24"
-    alt="Follow me on Medium"
-    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/medium.svg"
-  /></a>
+- [trekhleb.dev](https://trekhleb.dev)
+- [LinkedIn](https://www.linkedin.com/in/trekhleb/)
+- [X](https://x.com/trekhleb)
